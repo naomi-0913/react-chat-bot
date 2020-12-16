@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Firebase resources
+.firebaserc
+.firebase
+firestore.rules
+src/webhookConfig.js
+src/firebase/config.js
+src_class/firebase/config.js
+
+package-lock.json
